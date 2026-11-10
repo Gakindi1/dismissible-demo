@@ -1,5 +1,5 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:dismissible_demo/main.dart';
+import 'package:dismissible_demo/app.dart';
 
 void main() {
   testWidgets('Swiping an email removes it and UNDO restores it',
